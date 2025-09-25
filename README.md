@@ -15,6 +15,6 @@ This project helped me practice:
 - HTML  
 - CSS
 
-You can access to view the page by using this link: 
+You can access to view the page by using this link: https://hazeemmohamed.github.io/Reester-css-project/
 
 Thank you for visiting my web page!
