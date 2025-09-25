@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+.header a{
+    color: lightgray;
+    text-decoration: none;
+}
+.header__title{
+    padding-bottom: 5px;
+    font-size: 35px;
+
+}
+.receipe{
+    margin-top: 10px;
+    text-align: center;
+}
+
+.receipe__card1, .receipe__card2, .receipe__card3, .receipe__card4{
+    display: inline-block;
+    border: 2px solid black;
+    width: 170px;
+    height: 350px;
+    text-align: center;
+    
+}
+.receipe img{
+    width: 170px;
+    height: 230px;
+}
+
+.receipe__button{
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 3px;
+}
+
+.footer{
+    background-color: black;
+    color: white;
+    vertical-align: bottom;
+    margin-top: 10px;
+    height:300px;
+    text-align: center;
+
+}
+.footer__contact{
+    margin: auto;
+    text-align: center;
+    display: inline-block;
+    padding: 30px;
+}
+.footer h1{
+    font-size: 30px;
+}
+
+.footer input{
+    padding: 5px;
+}
+.footer__table{
+    margin: auto;
+}
+.footer__button{
+    background-color: yellow;
+    border: none;
+    width: 500px;
+    padding: 10px;
+    margin-top: 10px;
+    vertical-align: bottom;
+
+}
